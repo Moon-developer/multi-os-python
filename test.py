@@ -5,4 +5,5 @@ class Dummy:
 
 if __name__ == '__main__':
     dummy = Dummy()
-    print('Dummy file')
+    print('Dummy file windows')
+
